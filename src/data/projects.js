@@ -39,7 +39,7 @@ const projects = [
     subtitle: "Compiler Testing & Validation",
     description:
       "Tested scanning, parsing, LL(1) grammar tables, and semantic analysis for compiler correctness.",
-    link: "https://github.com/ethanlylecruz",
+    link: "https://github.com/Ethanol-15/SimpleScript2",
   },
   {
     title: "Thryve POS System",
